@@ -55,8 +55,8 @@ html {
     --section-padding: 5rem 0;
     --section-body-padding: 0 0 3rem;
     --section-footer-padding: 3rem 0 0;
-    --footer-padding: 5rem 0 1rem;
     --section-footer-align: center;
+    --footer-padding: 5rem 0 1rem;
 }
 
 body {
