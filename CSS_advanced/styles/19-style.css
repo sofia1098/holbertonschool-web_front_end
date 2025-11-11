@@ -62,6 +62,8 @@ html {
     --footer-padding: 5rem 0 1rem;
 
     /* nav menu */
+    --nav-item-font-family: var(--font-family-title);
+    --nav-item-font-weight: var(--font-weight-bold);
     --nav-item-font-size: var(--font-size-medium);
     --nav-item-letter-spacing: 0.4rem;
     --nav-item-display: inline-block;
